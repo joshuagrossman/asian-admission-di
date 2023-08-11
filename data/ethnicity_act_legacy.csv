@@ -1,0 +1,41 @@
+ethnicity,act,legacy,n_applicants,n_admits
+White,32,FALSE,15871,896
+White,33,FALSE,22291,1735
+White,34,FALSE,25555,3255
+White,35,FALSE,21762,4354
+White,36,FALSE,7936,2338
+South Asian,32,FALSE,2372,77
+South Asian,33,FALSE,4158,201
+South Asian,34,FALSE,6211,512
+South Asian,35,FALSE,7644,1177
+South Asian,36,FALSE,4142,1086
+Southeast Asian,32,FALSE,1303,54
+Southeast Asian,33,FALSE,1825,144
+Southeast Asian,34,FALSE,2029,203
+Southeast Asian,35,FALSE,1904,345
+Southeast Asian,36,FALSE,701,198
+East Asian,32,FALSE,3557,173
+East Asian,33,FALSE,5836,433
+East Asian,34,FALSE,9337,1070
+East Asian,35,FALSE,12225,2695
+East Asian,36,FALSE,7737,2752
+White,32,TRUE,1415,294
+White,33,TRUE,2459,591
+White,34,TRUE,3387,1225
+White,35,TRUE,3480,1630
+White,36,TRUE,1613,1021
+South Asian,32,TRUE,NA,NA
+South Asian,33,TRUE,70,11
+South Asian,34,TRUE,123,42
+South Asian,35,TRUE,159,78
+South Asian,36,TRUE,73,43
+Southeast Asian,32,TRUE,NA,NA
+Southeast Asian,33,TRUE,51,7
+Southeast Asian,34,TRUE,75,15
+Southeast Asian,35,TRUE,81,32
+Southeast Asian,36,TRUE,NA,NA
+East Asian,32,TRUE,168,22
+East Asian,33,TRUE,268,69
+East Asian,34,TRUE,467,146
+East Asian,35,TRUE,599,263
+East Asian,36,TRUE,301,185

@@ -1,0 +1,401 @@
+ethnicity,zip1,act,legacy,n_applicants,n_admits
+White,0,32,FALSE,3321,199
+White,0,33,FALSE,4652,409
+White,0,34,FALSE,5201,746
+White,0,35,FALSE,4380,1058
+White,0,36,FALSE,1600,609
+White,1,32,FALSE,3236,286
+White,1,33,FALSE,4455,516
+White,1,34,FALSE,5023,1002
+White,1,35,FALSE,4093,1198
+White,1,36,FALSE,1374,555
+White,2,32,FALSE,1618,77
+White,2,33,FALSE,2408,159
+White,2,34,FALSE,2770,285
+White,2,35,FALSE,2298,461
+White,2,36,FALSE,868,252
+White,3,32,FALSE,1148,49
+White,3,33,FALSE,1630,111
+White,3,34,FALSE,1949,207
+White,3,35,FALSE,1717,253
+White,3,36,FALSE,708,191
+White,4,32,FALSE,1022,37
+White,4,33,FALSE,1400,78
+White,4,34,FALSE,1521,128
+White,4,35,FALSE,1364,185
+White,4,36,FALSE,464,78
+White,5,32,FALSE,548,22
+White,5,33,FALSE,768,59
+White,5,34,FALSE,821,55
+White,5,35,FALSE,745,111
+White,5,36,FALSE,270,64
+White,6,32,FALSE,1082,52
+White,6,33,FALSE,1606,100
+White,6,34,FALSE,1890,193
+White,6,35,FALSE,1729,258
+White,6,36,FALSE,716,132
+White,7,32,FALSE,692,31
+White,7,33,FALSE,924,36
+White,7,34,FALSE,1263,106
+White,7,35,FALSE,1143,148
+White,7,36,FALSE,494,105
+White,8,32,FALSE,786,36
+White,8,33,FALSE,1052,72
+White,8,34,FALSE,1148,117
+White,8,35,FALSE,995,152
+White,8,36,FALSE,334,76
+White,9,32,FALSE,2418,107
+White,9,33,FALSE,3396,195
+White,9,34,FALSE,3969,416
+White,9,35,FALSE,3298,530
+White,9,36,FALSE,1108,276
+South Asian,0,32,FALSE,422,8
+South Asian,0,33,FALSE,883,42
+South Asian,0,34,FALSE,1314,106
+South Asian,0,35,FALSE,1561,277
+South Asian,0,36,FALSE,894,285
+South Asian,1,32,FALSE,516,28
+South Asian,1,33,FALSE,737,65
+South Asian,1,34,FALSE,968,148
+South Asian,1,35,FALSE,928,244
+South Asian,1,36,FALSE,366,155
+South Asian,2,32,FALSE,264,4
+South Asian,2,33,FALSE,460,21
+South Asian,2,34,FALSE,615,47
+South Asian,2,35,FALSE,808,135
+South Asian,2,36,FALSE,372,100
+South Asian,3,32,FALSE,185,4
+South Asian,3,33,FALSE,363,14
+South Asian,3,34,FALSE,551,32
+South Asian,3,35,FALSE,594,86
+South Asian,3,36,FALSE,365,101
+South Asian,4,32,FALSE,128,3
+South Asian,4,33,FALSE,198,8
+South Asian,4,34,FALSE,352,33
+South Asian,4,35,FALSE,424,70
+South Asian,4,36,FALSE,240,48
+South Asian,5,32,FALSE,55,3
+South Asian,5,33,FALSE,79,3
+South Asian,5,34,FALSE,117,12
+South Asian,5,35,FALSE,152,28
+South Asian,5,36,FALSE,60,17
+South Asian,6,32,FALSE,166,4
+South Asian,6,33,FALSE,260,9
+South Asian,6,34,FALSE,387,25
+South Asian,6,35,FALSE,483,54
+South Asian,6,36,FALSE,272,66
+South Asian,7,32,FALSE,142,4
+South Asian,7,33,FALSE,287,11
+South Asian,7,34,FALSE,503,32
+South Asian,7,35,FALSE,707,84
+South Asian,7,36,FALSE,444,74
+South Asian,8,32,FALSE,60,3
+South Asian,8,33,FALSE,110,4
+South Asian,8,34,FALSE,172,16
+South Asian,8,35,FALSE,196,40
+South Asian,8,36,FALSE,132,45
+South Asian,9,32,FALSE,434,16
+South Asian,9,33,FALSE,781,24
+South Asian,9,34,FALSE,1232,61
+South Asian,9,35,FALSE,1791,159
+South Asian,9,36,FALSE,997,195
+Southeast Asian,0,32,FALSE,189,7
+Southeast Asian,0,33,FALSE,253,21
+Southeast Asian,0,34,FALSE,270,37
+Southeast Asian,0,35,FALSE,263,69
+Southeast Asian,0,36,FALSE,82,30
+Southeast Asian,1,32,FALSE,208,9
+Southeast Asian,1,33,FALSE,298,45
+Southeast Asian,1,34,FALSE,293,41
+Southeast Asian,1,35,FALSE,217,53
+Southeast Asian,1,36,FALSE,92,38
+Southeast Asian,2,32,FALSE,105,5
+Southeast Asian,2,33,FALSE,145,3
+Southeast Asian,2,34,FALSE,157,15
+Southeast Asian,2,35,FALSE,135,24
+Southeast Asian,2,36,FALSE,52,16
+Southeast Asian,3,32,FALSE,78,2
+Southeast Asian,3,33,FALSE,112,11
+Southeast Asian,3,34,FALSE,128,16
+Southeast Asian,3,35,FALSE,115,23
+Southeast Asian,3,36,FALSE,NA,NA
+Southeast Asian,4,32,FALSE,NA,NA
+Southeast Asian,4,33,FALSE,57,4
+Southeast Asian,4,34,FALSE,52,4
+Southeast Asian,4,35,FALSE,57,12
+Southeast Asian,4,36,FALSE,NA,NA
+Southeast Asian,5,32,FALSE,NA,NA
+Southeast Asian,5,33,FALSE,NA,NA
+Southeast Asian,5,34,FALSE,NA,NA
+Southeast Asian,5,35,FALSE,NA,NA
+Southeast Asian,5,36,FALSE,NA,NA
+Southeast Asian,6,32,FALSE,71,3
+Southeast Asian,6,33,FALSE,108,7
+Southeast Asian,6,34,FALSE,98,9
+Southeast Asian,6,35,FALSE,80,9
+Southeast Asian,6,36,FALSE,NA,NA
+Southeast Asian,7,32,FALSE,70,2
+Southeast Asian,7,33,FALSE,117,5
+Southeast Asian,7,34,FALSE,109,9
+Southeast Asian,7,35,FALSE,171,21
+Southeast Asian,7,36,FALSE,88,18
+Southeast Asian,8,32,FALSE,52,3
+Southeast Asian,8,33,FALSE,53,5
+Southeast Asian,8,34,FALSE,68,11
+Southeast Asian,8,35,FALSE,58,11
+Southeast Asian,8,36,FALSE,NA,NA
+Southeast Asian,9,32,FALSE,470,17
+Southeast Asian,9,33,FALSE,648,38
+Southeast Asian,9,34,FALSE,814,56
+Southeast Asian,9,35,FALSE,771,119
+Southeast Asian,9,36,FALSE,249,55
+East Asian,0,32,FALSE,498,41
+East Asian,0,33,FALSE,852,83
+East Asian,0,34,FALSE,1466,210
+East Asian,0,35,FALSE,2213,602
+East Asian,0,36,FALSE,1562,712
+East Asian,1,32,FALSE,872,67
+East Asian,1,33,FALSE,1328,155
+East Asian,1,34,FALSE,1865,298
+East Asian,1,35,FALSE,2059,688
+East Asian,1,36,FALSE,1111,540
+East Asian,2,32,FALSE,259,10
+East Asian,2,33,FALSE,462,20
+East Asian,2,34,FALSE,741,92
+East Asian,2,35,FALSE,1053,273
+East Asian,2,36,FALSE,679,242
+East Asian,3,32,FALSE,169,3
+East Asian,3,33,FALSE,279,16
+East Asian,3,34,FALSE,468,47
+East Asian,3,35,FALSE,638,118
+East Asian,3,36,FALSE,480,182
+East Asian,4,32,FALSE,103,3
+East Asian,4,33,FALSE,179,11
+East Asian,4,34,FALSE,326,35
+East Asian,4,35,FALSE,434,90
+East Asian,4,36,FALSE,348,109
+East Asian,5,32,FALSE,66,2
+East Asian,5,33,FALSE,80,7
+East Asian,5,34,FALSE,131,13
+East Asian,5,35,FALSE,186,41
+East Asian,5,36,FALSE,156,62
+East Asian,6,32,FALSE,175,3
+East Asian,6,33,FALSE,248,17
+East Asian,6,34,FALSE,391,43
+East Asian,6,35,FALSE,562,99
+East Asian,6,36,FALSE,435,153
+East Asian,7,32,FALSE,109,3
+East Asian,7,33,FALSE,200,11
+East Asian,7,34,FALSE,375,39
+East Asian,7,35,FALSE,651,108
+East Asian,7,36,FALSE,508,158
+East Asian,8,32,FALSE,110,4
+East Asian,8,33,FALSE,164,12
+East Asian,8,34,FALSE,272,31
+East Asian,8,35,FALSE,299,77
+East Asian,8,36,FALSE,181,73
+East Asian,9,32,FALSE,1196,37
+East Asian,9,33,FALSE,2044,101
+East Asian,9,34,FALSE,3302,262
+East Asian,9,35,FALSE,4130,599
+East Asian,9,36,FALSE,2277,521
+White,0,32,TRUE,411,102
+White,0,33,TRUE,705,166
+White,0,34,TRUE,942,357
+White,0,35,TRUE,980,449
+White,0,36,TRUE,451,306
+White,1,32,TRUE,285,77
+White,1,33,TRUE,622,214
+White,1,34,TRUE,849,373
+White,1,35,TRUE,898,538
+White,1,36,TRUE,404,295
+White,2,32,TRUE,155,21
+White,2,33,TRUE,252,33
+White,2,34,TRUE,385,119
+White,2,35,TRUE,410,177
+White,2,36,TRUE,184,108
+White,3,32,TRUE,59,14
+White,3,33,TRUE,103,23
+White,3,34,TRUE,157,47
+White,3,35,TRUE,151,74
+White,3,36,TRUE,78,45
+White,4,32,TRUE,NA,NA
+White,4,33,TRUE,77,13
+White,4,34,TRUE,82,29
+White,4,35,TRUE,81,32
+White,4,36,TRUE,NA,NA
+White,5,32,TRUE,NA,NA
+White,5,33,TRUE,NA,NA
+White,5,34,TRUE,54,16
+White,5,35,TRUE,65,31
+White,5,36,TRUE,NA,NA
+White,6,32,TRUE,65,17
+White,6,33,TRUE,95,19
+White,6,34,TRUE,156,52
+White,6,35,TRUE,135,43
+White,6,36,TRUE,75,42
+White,7,32,TRUE,NA,NA
+White,7,33,TRUE,NA,NA
+White,7,34,TRUE,78,21
+White,7,35,TRUE,85,35
+White,7,36,TRUE,54,31
+White,8,32,TRUE,59,8
+White,8,33,TRUE,83,19
+White,8,34,TRUE,101,36
+White,8,35,TRUE,91,34
+White,8,36,TRUE,53,29
+White,9,32,TRUE,285,47
+White,9,33,TRUE,431,88
+White,9,34,TRUE,583,175
+White,9,35,TRUE,584,217
+White,9,36,TRUE,243,127
+South Asian,0,32,TRUE,NA,NA
+South Asian,0,33,TRUE,NA,NA
+South Asian,0,34,TRUE,NA,NA
+South Asian,0,35,TRUE,NA,NA
+South Asian,0,36,TRUE,NA,NA
+South Asian,1,32,TRUE,NA,NA
+South Asian,1,33,TRUE,NA,NA
+South Asian,1,34,TRUE,NA,NA
+South Asian,1,35,TRUE,NA,NA
+South Asian,1,36,TRUE,NA,NA
+South Asian,2,32,TRUE,NA,NA
+South Asian,2,33,TRUE,NA,NA
+South Asian,2,34,TRUE,NA,NA
+South Asian,2,35,TRUE,NA,NA
+South Asian,2,36,TRUE,NA,NA
+South Asian,3,32,TRUE,NA,NA
+South Asian,3,33,TRUE,NA,NA
+South Asian,3,34,TRUE,NA,NA
+South Asian,3,35,TRUE,NA,NA
+South Asian,3,36,TRUE,NA,NA
+South Asian,4,32,TRUE,NA,NA
+South Asian,4,33,TRUE,NA,NA
+South Asian,4,34,TRUE,NA,NA
+South Asian,4,35,TRUE,NA,NA
+South Asian,4,36,TRUE,NA,NA
+South Asian,5,32,TRUE,NA,NA
+South Asian,5,33,TRUE,NA,NA
+South Asian,5,34,TRUE,NA,NA
+South Asian,5,35,TRUE,NA,NA
+South Asian,5,36,TRUE,NA,NA
+South Asian,6,32,TRUE,NA,NA
+South Asian,6,33,TRUE,NA,NA
+South Asian,6,34,TRUE,NA,NA
+South Asian,6,35,TRUE,NA,NA
+South Asian,6,36,TRUE,NA,NA
+South Asian,7,32,TRUE,NA,NA
+South Asian,7,33,TRUE,NA,NA
+South Asian,7,34,TRUE,NA,NA
+South Asian,7,35,TRUE,NA,NA
+South Asian,7,36,TRUE,NA,NA
+South Asian,8,32,TRUE,NA,NA
+South Asian,8,33,TRUE,NA,NA
+South Asian,8,34,TRUE,NA,NA
+South Asian,8,35,TRUE,NA,NA
+South Asian,8,36,TRUE,NA,NA
+South Asian,9,32,TRUE,NA,NA
+South Asian,9,33,TRUE,NA,NA
+South Asian,9,34,TRUE,NA,NA
+South Asian,9,35,TRUE,NA,NA
+South Asian,9,36,TRUE,NA,NA
+Southeast Asian,0,32,TRUE,NA,NA
+Southeast Asian,0,33,TRUE,NA,NA
+Southeast Asian,0,34,TRUE,NA,NA
+Southeast Asian,0,35,TRUE,NA,NA
+Southeast Asian,0,36,TRUE,NA,NA
+Southeast Asian,1,32,TRUE,NA,NA
+Southeast Asian,1,33,TRUE,NA,NA
+Southeast Asian,1,34,TRUE,NA,NA
+Southeast Asian,1,35,TRUE,NA,NA
+Southeast Asian,1,36,TRUE,NA,NA
+Southeast Asian,2,32,TRUE,NA,NA
+Southeast Asian,2,33,TRUE,NA,NA
+Southeast Asian,2,34,TRUE,NA,NA
+Southeast Asian,2,35,TRUE,NA,NA
+Southeast Asian,2,36,TRUE,NA,NA
+Southeast Asian,3,32,TRUE,NA,NA
+Southeast Asian,3,33,TRUE,NA,NA
+Southeast Asian,3,34,TRUE,NA,NA
+Southeast Asian,3,35,TRUE,NA,NA
+Southeast Asian,3,36,TRUE,NA,NA
+Southeast Asian,4,32,TRUE,NA,NA
+Southeast Asian,4,33,TRUE,NA,NA
+Southeast Asian,4,34,TRUE,NA,NA
+Southeast Asian,4,35,TRUE,NA,NA
+Southeast Asian,4,36,TRUE,NA,NA
+Southeast Asian,5,32,TRUE,NA,NA
+Southeast Asian,5,33,TRUE,NA,NA
+Southeast Asian,5,34,TRUE,NA,NA
+Southeast Asian,5,35,TRUE,NA,NA
+Southeast Asian,5,36,TRUE,NA,NA
+Southeast Asian,6,32,TRUE,NA,NA
+Southeast Asian,6,33,TRUE,NA,NA
+Southeast Asian,6,34,TRUE,NA,NA
+Southeast Asian,6,35,TRUE,NA,NA
+Southeast Asian,6,36,TRUE,NA,NA
+Southeast Asian,7,32,TRUE,NA,NA
+Southeast Asian,7,33,TRUE,NA,NA
+Southeast Asian,7,34,TRUE,NA,NA
+Southeast Asian,7,35,TRUE,NA,NA
+Southeast Asian,7,36,TRUE,NA,NA
+Southeast Asian,8,32,TRUE,NA,NA
+Southeast Asian,8,33,TRUE,NA,NA
+Southeast Asian,8,34,TRUE,NA,NA
+Southeast Asian,8,35,TRUE,NA,NA
+Southeast Asian,8,36,TRUE,NA,NA
+Southeast Asian,9,32,TRUE,NA,NA
+Southeast Asian,9,33,TRUE,NA,NA
+Southeast Asian,9,34,TRUE,NA,NA
+Southeast Asian,9,35,TRUE,NA,NA
+Southeast Asian,9,36,TRUE,NA,NA
+East Asian,0,32,TRUE,NA,NA
+East Asian,0,33,TRUE,61,18
+East Asian,0,34,TRUE,124,34
+East Asian,0,35,TRUE,156,81
+East Asian,0,36,TRUE,65,47
+East Asian,1,32,TRUE,NA,NA
+East Asian,1,33,TRUE,57,23
+East Asian,1,34,TRUE,82,37
+East Asian,1,35,TRUE,111,57
+East Asian,1,36,TRUE,62,46
+East Asian,2,32,TRUE,NA,NA
+East Asian,2,33,TRUE,NA,NA
+East Asian,2,34,TRUE,NA,NA
+East Asian,2,35,TRUE,62,33
+East Asian,2,36,TRUE,NA,NA
+East Asian,3,32,TRUE,NA,NA
+East Asian,3,33,TRUE,NA,NA
+East Asian,3,34,TRUE,NA,NA
+East Asian,3,35,TRUE,NA,NA
+East Asian,3,36,TRUE,NA,NA
+East Asian,4,32,TRUE,NA,NA
+East Asian,4,33,TRUE,NA,NA
+East Asian,4,34,TRUE,NA,NA
+East Asian,4,35,TRUE,NA,NA
+East Asian,4,36,TRUE,NA,NA
+East Asian,5,32,TRUE,NA,NA
+East Asian,5,33,TRUE,NA,NA
+East Asian,5,34,TRUE,NA,NA
+East Asian,5,35,TRUE,NA,NA
+East Asian,5,36,TRUE,NA,NA
+East Asian,6,32,TRUE,NA,NA
+East Asian,6,33,TRUE,NA,NA
+East Asian,6,34,TRUE,NA,NA
+East Asian,6,35,TRUE,NA,NA
+East Asian,6,36,TRUE,NA,NA
+East Asian,7,32,TRUE,NA,NA
+East Asian,7,33,TRUE,NA,NA
+East Asian,7,34,TRUE,NA,NA
+East Asian,7,35,TRUE,NA,NA
+East Asian,7,36,TRUE,NA,NA
+East Asian,8,32,TRUE,NA,NA
+East Asian,8,33,TRUE,NA,NA
+East Asian,8,34,TRUE,NA,NA
+East Asian,8,35,TRUE,NA,NA
+East Asian,8,36,TRUE,NA,NA
+East Asian,9,32,TRUE,53,3
+East Asian,9,33,TRUE,92,19
+East Asian,9,34,TRUE,163,45
+East Asian,9,35,TRUE,198,65
+East Asian,9,36,TRUE,100,43
